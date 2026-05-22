@@ -15,7 +15,7 @@ This dashboard helps analyze:
 
 ## Dashboard Preview
 
-![Dashboard Preview](dashboard.png)
+![Dashboard Preview](dashboard1.png)
 
 ## Tools Used
 
